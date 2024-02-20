@@ -1,0 +1,11 @@
+
+Database name = "pizza_app"
+
+Admin email = admin@gmail.com
+Admin Password = admin123
+Admin URL = /admin/login
+
+
+User = fahad@gmail.com
+User password = fahad123
+
