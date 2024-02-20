@@ -2,7 +2,7 @@
 Database name = "pizza_app"
 
 Admin email = admin@gmail.com
-Admin Password = admin123
+Admin Password = admin12345
 Admin URL = /admin/login
 
 
