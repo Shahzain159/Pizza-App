@@ -5,7 +5,7 @@ Admin email = admin@gmail.com
 Admin Password = admin12345
 Admin URL = /admin/login
 
-also create a seeder for Admin
+also create a seeder for AdminSeeder
 
 
 User = fahad@gmail.com
